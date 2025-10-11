@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="close_app">Close App</string>
+    <string name="type_word">Type a Word</string>
+    <string name="caps">CAPS LOCK</string>
+    <string name="send">Send</string>
+    <string name="back_to_main_sc">Back To Main Screen</string>
+</resources>
