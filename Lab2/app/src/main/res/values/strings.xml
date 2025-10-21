@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="eur">EUR</string>
+    <string name="usd">USD</string>
+    <string name="chf">CHF</string>
+    <string name="howMuchToConvert">How Much Money Do You Want To Convert?</string>
+    <string name="result">After Conversion</string>
+</resources>
