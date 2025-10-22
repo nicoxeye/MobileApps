@@ -22,3 +22,12 @@ lab2 covers ⋆⭒˚.⋆
     <img width="315" height="145" alt="image" src="https://github.com/user-attachments/assets/0eb29f26-ca2a-46ac-bf57-ed3b617dcbdc" />
     <img width="315" height="145" alt="image" src="https://github.com/user-attachments/assets/203ece79-4ffb-4991-8ac5-84d3601626e2" />
 </p>
+
+lab 2 homework ⋆⭒˚.⋆
+---
+    → there is an 'advanced calculator' button on the bottom of the screen in the main activity
+### WEIRD BUTTON CALCULATOR WITH EDITTEXTS :P
+<p align="center">
+    <img width="250" height="232" alt="image" src="https://github.com/user-attachments/assets/38ce15ff-8759-4699-ad14-4783d4d62c4c" />
+    <img width="260" height="380" alt="image" src="https://github.com/user-attachments/assets/6b4b2dd7-d6a8-425e-881a-98738afa870d" />
+</p>
