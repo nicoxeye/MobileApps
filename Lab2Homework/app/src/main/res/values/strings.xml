@@ -8,4 +8,10 @@
     <string name="result">RESULT</string>
     <string name="advanced">Advanced Calculator</string>
 
+    <!-- advanced calc -->
+    <string name="tothepower">^</string>
+    <string name="sqrroot">√</string>
+    <string name="factorial">!</string>
+    <string name="goBack">Back</string>
+
 </resources>
