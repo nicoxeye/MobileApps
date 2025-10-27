@@ -30,4 +30,9 @@ lab 2 homework ⋆⭒˚.⋆
 <p align="center">
     <img width="250" height="232" alt="image" src="https://github.com/user-attachments/assets/38ce15ff-8759-4699-ad14-4783d4d62c4c" />
     <img width="260" height="380" alt="image" src="https://github.com/user-attachments/assets/6b4b2dd7-d6a8-425e-881a-98738afa870d" />
+    
+
+https://github.com/user-attachments/assets/622fc810-d49b-4c05-8680-38584cb715c8
+
+
 </p>
