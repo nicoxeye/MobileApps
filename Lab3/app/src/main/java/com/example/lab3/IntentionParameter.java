@@ -10,13 +10,13 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-public class IntentParameter extends AppCompatActivity {
+public class IntentionParameter extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
-        setContentView(R.layout.activity_intent_parameter);
+        setContentView(R.layout.activity_intention_parameter);
 
         Intent intent = getIntent();
         String parameter = intent.getStringExtra("extra-variable");

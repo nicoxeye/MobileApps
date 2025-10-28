@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     void simpleIntentionWithParameter() {
-        Intent intent = new Intent(this, IntentParameter.class);
+        Intent intent = new Intent(this, IntentionParameter.class);
         intent.putExtra("extra-variable", "message delivered to new intent");
         startActivity(intent);
     }
