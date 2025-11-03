@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
     void sendToPlace(EditText typePlace) {
         String place = typePlace.getText().toString().trim();
-        Uri mapIntentUri = Uri.parse("geo:0,0?q=" + Uri.encode(place));
+        Uri mapIntentUri = Uri.parse("google.navigation:q=" + Uri.encode(place));
 
         Intent intent = new Intent(Intent.ACTION_VIEW, mapIntentUri);
         startActivity(intent);
