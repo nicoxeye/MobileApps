@@ -33,6 +33,10 @@ lab 2 homework ⋆⭒˚.⋆
     
 
 https://github.com/user-attachments/assets/622fc810-d49b-4c05-8680-38584cb715c8
-
-
 </p>
+
+lab 3 homework ⋆⭒˚.⋆
+
+https://github.com/user-attachments/assets/a4fe4a81-cd2f-4e5f-825d-7d98b2b9f838
+
+
