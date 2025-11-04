@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Silence Phone"
+        android:id="@+id/silence"
+        />
+    <item
+        android:title="Close App"
+        android:id="@+id/close"
+        />
+    <item
+        android:title="Author"
+        android:id="@+id/author"
+        />
+    <item
+        android:title="Run"
+        android:id="@+id/run">
+        <menu>
+            <item
+                android:title="Google Maps"
+                android:id="@+id/maps"
+                />
+            <item
+                android:title="Google Search"
+                android:id="@+id/search"
+                />
+        </menu>
+    </item>
+
+</menu>
