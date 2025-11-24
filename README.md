@@ -36,7 +36,18 @@ https://github.com/user-attachments/assets/622fc810-d49b-4c05-8680-38584cb715c8
 </p>
 
 lab 3 homework ⋆⭒˚.⋆
+---
 
 https://github.com/user-attachments/assets/a4fe4a81-cd2f-4e5f-825d-7d98b2b9f838
+
+lab 5 homework ⋆⭒˚.⋆
+---
+PART 1, WITH INTERNAL MEMORY
+
+https://github.com/user-attachments/assets/a8ce078e-f5d4-41f5-89bd-b49911738f18
+
+PART 2, ROOM DATABASE
+
+https://github.com/user-attachments/assets/440f16cd-6076-4429-ab28-b71aeedcaca2
 
 
