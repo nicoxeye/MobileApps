@@ -50,4 +50,10 @@ PART 2, ROOM DATABASE
 
 https://github.com/user-attachments/assets/440f16cd-6076-4429-ab28-b71aeedcaca2
 
+lab 6 homework ⋆⭒˚.⋆
+---
+
+https://github.com/user-attachments/assets/69445f27-930a-4072-9e3a-66b9e81450df
+
+
 
